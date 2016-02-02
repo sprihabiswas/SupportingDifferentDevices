@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">SupportingDifferentDevices</string>
+    <string name="title">My Application</string>
+    <string name="hello_world">Hello World!</string>
+
+    <string name="normal_portrait">This is normal portrait</string>
+    <string name="normal_landscape">This is normal landscape</string>
+    <string name="large_portrait">This is large portrait</string>
+    <string name="large_landscape">This is large landscape</string>
 </resources>
